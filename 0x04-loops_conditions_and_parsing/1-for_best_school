@@ -1,7 +1,5 @@
-#!/usr/bin/env bash
-for $VARIABLE in 1 2 3 4 5 .. N
+#!/usr/bin/env bash 
+for _ in {1..10}
 do
-	command 1
-	command 2
-	command N
+	echo "Best School"
 done
