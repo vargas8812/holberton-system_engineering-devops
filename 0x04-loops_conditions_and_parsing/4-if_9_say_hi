@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#this is a bash script utilizing the while command with a variable expression
+i=1
+while [ $i -le 11 ];
+do
+	if [ $i = 10 ];
+	then 
+	echo "Hi" 
+else 
+echo "Best School"	
+	fi
+	i=$(( i+1 ))
+done
