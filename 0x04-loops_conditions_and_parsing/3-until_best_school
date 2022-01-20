@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
 #this is an alernative way to create a loop using the until command
+counter=1
 
+until [ $counter -gt 10 ]
+do
+	echo Best School: $counter
+	((counter++))
+done
