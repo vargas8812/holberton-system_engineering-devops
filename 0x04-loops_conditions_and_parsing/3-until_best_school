@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#this is an alernative way to create a loop using the until command
+#this is an example of the comand until to create a loop
 counter=1
 
 until [ $counter -gt 10 ]
