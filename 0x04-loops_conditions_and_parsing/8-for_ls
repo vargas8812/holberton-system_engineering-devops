@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#my therapist is going to be rich
+
+l=$(ls)
+for i in $l;
+do
+echo "$i" | cut -d "-" -f2
+done
