@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#I want Leo D's wardrobe from this movie.
+
+pkill -f 4-to_infinity_and_beyond
