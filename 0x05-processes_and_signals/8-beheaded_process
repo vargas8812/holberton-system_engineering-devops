@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#kill your idols. Off with their heads. 
+pkill -9 -f "7-highlander"
