@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#They call me Mr. Fahrenheit. No, they don't.
+kill "$(pgrep -f ./4-to_infinity_and_beyond)"
